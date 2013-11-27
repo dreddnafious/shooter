@@ -1,0 +1,1002 @@
+Initialize engine version: 4.0.0b11
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [aticfx32.dll 8.17.10.1172]
+    Renderer: AMD Radeon HD 6900 Series
+    Vendor:   ATI
+    VRAM:     2034 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=1 DF24=1 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=1
+Default GameObject Tag: Player already registered
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/BaseClasses/Tags.cpp Line: 55)
+
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+- Completed reload, in  0.147 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+instantiate Event Dictionary
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 25000
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Platform assembly: C:\Users\jason\Desktop\unitystuff\shooter\shooter2.1_Data\Managed\Boo.Lang.dll (this message is harmless)
+RecalculateHealth Called CurrentHealth = 500
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+114 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+81 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+52 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+16 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-12 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+465 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+404 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+117 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+88 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+60 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+22 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-9 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+118 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+90 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+56 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+28 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-9 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+120 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+85 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+57 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+25 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-8 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+119 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+53 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+113 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+78 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+46 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+11 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-20 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+343 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+18 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-15 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+118 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+84 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+54 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+16 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-19 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+136 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+308 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+100 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+68 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+40 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+4 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-26 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+291 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+256 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+135 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+102 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+69 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+36 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+6 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+221 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-29 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+186 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+116 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+51 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+18 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-17 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+151 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+117 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+85 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+56 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+27 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-6 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+118 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+84 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+51 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+90 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+55 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+132 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+102 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+85 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+56 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+23 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-10 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+20 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+19 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-11 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+114 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+54 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+18 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-15 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+117 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+56 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+18 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-16 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+121 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+84 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+54 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+21 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-15 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+115 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+50 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+15 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-17 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-50 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+121 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+48 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+10 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-21 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-13 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+121 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+89 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+53 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+25 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-12 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+113 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+84 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+50 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+20 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-10 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+122 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+84 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+48 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+34 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-3 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-85 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+117 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+83 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+48 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+15 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-20 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-146 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+121 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+91 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+57 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+26 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-8 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+120 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+86 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-181 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-216 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-251 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+118 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+83 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+54 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+19 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-17 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-286 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-321 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-382 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-417 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-452 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+115 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+113 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+78 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+40 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+3 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-33 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+57 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-513 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-548 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+19 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-19 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+-583 health remaining!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Game Over Bitches
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+Player hit!
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
+RecalculateHealth Called CurrentHealth = 150
+ 
+(Filename: C:/BuildAgent/work/a0f11f3559d72c6d/Runtime/ExportGenerated/StandalonePlayer/UnityEngineDebug.cpp Line: 43)
+
